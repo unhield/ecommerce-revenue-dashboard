@@ -1,30 +1,31 @@
 # 📊 E-Commerce Revenue Insights Dashboard (Power BI)
 
+## 📸 Dashboard Preview
+<img src="dashboard.jpg" width="100%">
+
 ## 🔍 Overview
-An interactive Power BI dashboard analyzing e-commerce performance across revenue, customer activity, and product trends.  
-Designed to identify growth patterns, top-performing regions, and key revenue drivers.
+This project presents an interactive Power BI dashboard designed to evaluate e-commerce revenue performance and identify key business drivers across customers, products, and geographic markets.  
+The focus is on translating raw transactional data into clear, decision-oriented insights.
 
 ## 📌 Key Insights
-- Revenue shows a consistent upward trend, peaking in Q4  
-- Netherlands and EIRE generate the highest revenue contribution  
-- Sales are concentrated among a limited number of high-performing products  
-- Monthly fluctuations indicate clear seasonal demand patterns  
-- Average Order Value remains stable across the observed period  
+- Revenue demonstrates a strong upward trajectory, with a clear peak in Q4 indicating seasonal demand concentration  
+- Netherlands and EIRE emerge as the highest revenue-generating regions, highlighting geographic dependency  
+- Revenue is heavily concentrated among a limited set of products, suggesting reliance on top-performing SKUs  
+- Monthly volatility reflects underlying seasonal purchasing patterns across markets  
+- Average Order Value remains stable, indicating consistent customer spending behavior over time  
 
 ## 🛠 Tools & Skills
-- Power BI (Data Modeling & Visualization)  
+- Power BI (Data Modeling, DAX, and Interactive Visualization)  
 - Data Analysis & Business Insight Generation  
+- Dashboard Design & Information Hierarchy  
 
 ## 📂 Project Structure
 - `data/` → Source dataset  
 - `dashboard/` → Power BI (.pbix) file  
 - `images/` → Dashboard preview  
 
-## 📸 Dashboard Preview
-<img src="dashboard.jpg" width="100%">
-
 ## 🚀 Usage
-Download the `.pbix` file and open it in Power BI Desktop to explore the interactive dashboard.
+Download the `.pbix` file and open it in Power BI Desktop to explore the interactive dashboard and apply filters for deeper analysis.
 
 ---
-This project focuses on transforming raw data into actionable business insights.
+💡 This project demonstrates the ability to transform raw data into structured insights that support business decision-making.
